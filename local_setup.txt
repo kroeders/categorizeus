@@ -1,3 +1,5 @@
+install java, git, eclipse
+create github ssh credentials and add ssh key to github
 
  sudo apt-get install postgresql postgresql-contrib pgadmin3
 sudo -u postgres psql postgres
